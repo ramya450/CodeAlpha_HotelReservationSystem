@@ -1,6 +1,6 @@
 # Hotel Reservation System
 
-## CodeAlpha Java Programming Internship - Task 2
+## CodeAlpha Java Programming Internship - Task 3
 
 A console-based Hotel Reservation System developed using Java as part of the CodeAlpha Java Programming Internship.
 
@@ -26,11 +26,11 @@ A console-based Hotel Reservation System developed using Java as part of the Cod
 
 ## Room Types
 
-| Room Type | Price per Night |
-|-----------|-----------------|
-| Single | 1500 |
-| Double | 2500 |
-| Deluxe | 4000 |
+ Room Type  Price per Night 
+
+ Single  1500 
+ Double  2500
+ Deluxe  4000 
 
 ## How to Run
 
